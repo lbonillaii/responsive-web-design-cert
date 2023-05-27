@@ -56,3 +56,8 @@ input, textarea {
 select {
   background-color: #ffffff;
 }
+
+input[type="submit"] {
+  display: block;
+  width: 60%;
+}
