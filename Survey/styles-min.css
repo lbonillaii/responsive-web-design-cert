@@ -8,3 +8,11 @@ body {
 h1, #description {
   text-align: center;
 }
+
+form {
+  margin: 0 auto;
+  min-width: 300px;
+  max-width: 500px;
+  width: 60vw;
+  padding-bottom: 2em;
+}
