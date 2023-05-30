@@ -1,3 +1,5 @@
+/* Classes */
+
 .canvas {
   width: 500px;
   height: 600px;
@@ -9,4 +11,8 @@
   width: 500px;
   padding: 50px;
   margin: 20px auto;
+}
+
+.one {
+  width: 425px;
 }
