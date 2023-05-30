@@ -5,6 +5,7 @@
   height: 600px;
   background-color: #4d0f00;
   filter: blur(2px);
+  border-radius: 9px;
 }
 
 .frame {
